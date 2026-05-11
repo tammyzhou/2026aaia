@@ -1,4 +1,4 @@
-///week12-3.cpp SOIT106_ADVANCE_001
+///week12-4.cpp SOIT106_ADVANCE_001
 #include <stdio.h>
 int main()
 {
